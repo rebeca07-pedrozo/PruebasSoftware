@@ -31,3 +31,8 @@
 
 1. touch index.html 
 2. http://localhost:8000
+
+Una historia de usuario es una herramienta utilizada en metodologías ágiles para describir funcionalidades del sistema desde la perspectiva del usuario final. Su objetivo es capturar lo que el usuario necesita hacer, enfocándose en el valor que esa funcionalidad aporta, sin entrar en detalles técnicos de implementación.La estructura habitual de una historia de usuario es: "Como [rol de usuario], quiero [funcionalidad], para [beneficio]", criterio de aceptación Outcome. Por ejemplo: "Como cliente, quiero poder filtrar productos por precio, para encontrar más fácilmente lo que se ajusta a mi presupuesto". Esta forma sencilla permite que todo el equipo entienda claramente lo que se espera del sistema.
+
+Las historias de usuario suelen ser escritas por el Product Owner o responsable del producto, aunque también pueden colaborar miembros del equipo de desarrollo, diseñadores o incluso los propios usuarios si participan activamente en el proceso. Lo importante es que reflejen las necesidades reales del usuario final y estén alineadas con los objetivos del producto.
+La armonía de una historia de usuario se refiere a su coherencia dentro del flujo general del sistema y con otras historias. Cada historia debe estar escrita en un lenguaje claro y centrado en el valor que aporta, de forma que sea comprensible para todos los involucrados. Además, deben estar priorizadas de manera lógica, asegurando que el desarrollo fluya de forma ordenada y efectiva.
