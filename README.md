@@ -12,8 +12,7 @@ node -v
 npm -v 
 cd formulario-app 
 npm start 
-
-´´´
+```
 <!DOCTYPE html> <!-- Declara que este es un documento HTML5 -->
 <html lang="es"> <!-- Define el idioma del contenido como español -->
 <head>
@@ -26,7 +25,7 @@ npm start
     <p>Este es un archivo HTML creado desde Git Bash.</p> <!-- Párrafo de texto que describe el propósito del archivo -->
 </body>
 </html>
+```
 
-´´´
 touch index.html
 http://localhost:8000
