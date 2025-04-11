@@ -1,17 +1,18 @@
 # PruebasSoftware
 
-mkd dir noche1 
-cd noche1 
-python -m venv entorno1 
-python -m venv entorno2 
-.\entorno1\Scripts\Activate ------ source entorno1/bin/activate 
-.\entorno2\Scripts\Activate------- source entorno1/bin/activate 
-deactivate 
-pip install selenium 
-node -v 
-npm -v 
-cd formulario-app 
-npm start 
+1. mkd dir noche1 
+2. cd noche1 
+3. python -m venv entorno1 
+4. python -m venv entorno2 
+5. .\entorno1\Scripts\Activate ------ source entorno1/bin/activate 
+6. .\entorno2\Scripts\Activate------- source entorno1/bin/activate 
+7. deactivate 
+8. pip install selenium 
+9. node -v 
+10. npm -v 
+11. cd formulario-app 
+12. npm start 
+
 ```
 <!DOCTYPE html> <!-- Declara que este es un documento HTML5 -->
 <html lang="es"> <!-- Define el idioma del contenido como español -->
@@ -27,5 +28,6 @@ npm start
 </html>
 ```
 
-touch index.html
-http://localhost:8000
+
+1. touch index.html 
+2. http://localhost:8000
